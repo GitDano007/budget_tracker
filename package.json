@@ -1,7 +1,7 @@
 
 
 {
-  "name": "HW18_PWA_Budget_Tracker",
+  "name": "Budget_Tracker",
   "version": "1.0.0",
   "description": "Track your expenses and deposits with this online/offline budget tracker (Bootcamp homework 18).",
   "main": "server.js",
